@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/T6Plvra.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
@@ -74,7 +74,7 @@ We can set an agent's name, password, email address, as well as their access, pe
 <br />
 <p>
 <img src="https://i.imgur.com/b5WfIq1.png" height="80%" width="80%" alt="setting agents access"/>
-<img src="https://i.imgur.com/dfg5fLP.png" height="80%" width="80%" alt="john and jane doe agents"/>
+<img src="https://i.imgur.com/SD5pPUo.png" height="80%" width="80%" alt="john and jane doe agents"/>
 
 </p>
 
